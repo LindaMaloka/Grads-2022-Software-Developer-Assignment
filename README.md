@@ -1,1 +1,3 @@
-# Grads-2022-Software-Developer-Assignment
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
